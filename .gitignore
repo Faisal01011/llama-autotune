@@ -1,0 +1,12 @@
+/build/
+/build-*/
+/work/
+/outputs/
+/imgui.ini
+*.csv
+*.jsonl
+*.gguf
+*.ggml
+*.safetensors
+*.ckpt
+*.pth
